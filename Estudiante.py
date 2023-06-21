@@ -8,6 +8,8 @@ Extrae una superclase con los campos
 	nif
 """
 
+#añadir sphinx
+
 class Estudiante:
     nif = "11111111Z";
     curso = "Primaria";
